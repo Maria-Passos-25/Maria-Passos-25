@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
   <p>Web Designer,</p> 
 
   <p>Atualmente sou estudante de Multimídia na Escola SENAI Paulo Antonio Skaf.</p>
-  <p>Amo comunicação e design</p><br>
+  <p>Amo comunicação e design.</p><br>
 </div>
 
 <div><br>
   <a href="https://github.com/Maria-Passos-25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byorks&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byorks&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maria-Passos-25&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Passos-25&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div><br>
 
 <div>
