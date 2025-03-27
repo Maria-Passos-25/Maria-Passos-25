@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- Link para o site que cria o codigo para o texto com aparencia de digitação -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-<a href="https://github.com/Byorks"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=00FF40&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maria+Eduarda!;Bem+vindos+ao+meu+perfil!+%F0%9F%91%80%F0%9F%91%8D" alt="Typing SVG" /></a>
+<a href="https://github.com/Maria-Passos-25"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=00FF40&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maria+Eduarda!;Bem+vindos+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 <div>
   <p>Web Designer,</p> 
 
-  <p>Atualmente sou estudante de Multimídia na Escola SENAI Paulo Antonio Skaf.</p>
+  <p>Atualmente estou no 3° semestre de Multimídia na Escola SENAI Paulo Antonio Skaf.</p>
   <p>Amo comunicação e design.</p><br>
 </div>
 
@@ -38,8 +38,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
     <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
     <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"/>
-          
+
   </div>
 </div>
 
@@ -54,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <summary></summary> 
   <div>
 
-  ![](https://komarev.com/ghpvc/?username=Byorks&style=for-the-badge&color=C61AFF)
+  ![](https://komarev.com/ghpvc/?username=Maria-Passos-25&style=for-the-badge&color=C61AFF)
   
   </div>
 </details>
