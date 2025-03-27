@@ -1,24 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Olá%2C+galera!+meu+nome+é+Maria+Eduarda+Passos.;Bem+vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+<!--- 👋 Hi, I’m @Byorks
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+---
+<!---
+Byorks/Byorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!-- Link para o site que cria o codigo para o texto com aparencia de digitação -->
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+<a href="https://github.com/Byorks"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=00FF40&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maria+Eduarda!;Bem+vindos+ao+meu+perfil!+%F0%9F%91%80%F0%9F%91%8D" alt="Typing SVG" /></a>
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="250">
+<div>
+  <p>Web Designer,</p> 
 
-### Linguagens:
+  <p>Atualmente sou estudante de Multimídia na Escola SENAI Paulo Antonio Skaf.</p>
+  <p>Amo comunicação e design</p><br>
+</div>
 
-<div style="display: inline_block"><br>
+<div><br>
+  <a href="https://github.com/Maria-Passos-25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byorks&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byorks&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div><br>
+
+<div>
+  <h2>🛠️ Linguagens e Ferramentas</h2>
+  <!--https://devicon.dev/-->
+  <div style="display: inline_block">
     <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Mariaa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
     <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
     <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
     <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"/>
-</div><br>
-
-
-### Contatos
-
-<div> 
-  <a href="https://www.linkedin.com/in/maria-eduarda-gusmão/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:mariagusmaopassos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          
+  </div>
 </div>
+
+<div>
+  <h2>:mailbox: Como entrar em contato</h2>
+  <a href = "mailto:mariagusmaopassos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-gusmão/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> <br>
+
+
+<details align="left">
+  <summary></summary> 
+  <div>
+
+  ![](https://komarev.com/ghpvc/?username=Byorks&style=for-the-badge&color=C61AFF)
+  
+  </div>
+</details>
