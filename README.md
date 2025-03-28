@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- Link para o site que cria o codigo para o texto com aparencia de digitação -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-<a href="https://github.com/Maria-Passos-25"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=00FF40&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maria+Eduarda!;Bem+vindos+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://github.com/Maria-Passos-25"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=0257FF&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maria+Eduarda!;Bem+vindos+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 <div>
   <p>Web Designer,</p> 
