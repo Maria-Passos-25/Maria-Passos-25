@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <p>Web Designer,</p> 
 
-  <p>Atualmente estou no 3° semestre de Multimídia na Escola SENAI Paulo Antonio Skaf.</p>
+  <p>Técnica em Multim~idia pela Escola SENAI Paulo Antonio Skaf.</p>
   <p>Amo comunicação e design.</p><br>
 </div>
 
